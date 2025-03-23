@@ -8,7 +8,7 @@
 
 Valorant Rank Checker est un outil web qui permet de vérifier votre rang Valorant et de l'intégrer facilement à votre chat Twitch. Compatible avec les bots Twitch les plus populaires comme Nightbot, StreamElements, Wizebot, Fossabot et Streamlabs.
 
-**Site web:** [https://api-rank-valo-production.up.railway.app/](https://api-rank-valo-production.up.railway.app/)
+**Site web:** [https://api-rank-valorant.up.railway.app](https://api-rank-valorant.up.railway.app)
 
 ## 🎮 Démonstration
 
@@ -106,6 +106,20 @@ Username#Tag | Diamond 2 : 45 RR | Change on the last game : +17 on Bind
 
 ## 🔒 Confidentialité et Sécurité
 Valorant Rank Checker ne stocke aucune information personnelle. Toutes les requêtes sont traitées en temps réel et aucune donnée n'est conservée sur nos serveurs.
+
+---
+
+## 🔍 Mots-clés & Référencement
+
+```
+valorant rank, rank valorant, valorant rank bot, bot rank valorant, twitch valorant bot, 
+valorant twitch bot, valorant rank twitch, wizebot valorant, nightbot valorant, 
+streamelements valorant, valorant api, valorant rank api, valorant rank checker, 
+puuid valorant, vérifier rang valorant, bot twitch valorant, valorant bot streamers,
+valorant mmr, valorant stats, valostats, valorant tracker, statistiques valorant,
+API valorant, interface valorant, rank checker, valorant PUUID finder, valorant RR,
+valorant ranked rating, riot ID, commande twitch valorant, bot chat valorant
+```
 
 ---
 
