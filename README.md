@@ -109,4 +109,4 @@ Valorant Rank Checker ne stocke aucune information personnelle. Toutes les requ�
 
 ---
 
-Créé avec ❤️ pour la communauté Valorant 
+Créé par Coridor 
